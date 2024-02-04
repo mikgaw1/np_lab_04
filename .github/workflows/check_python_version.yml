@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  check_python:
+  check-python-version:
     runs-on: ubuntu-latest
 
     steps:
